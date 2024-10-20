@@ -10,6 +10,12 @@ My undergraduate thesis, titled [EEG Seizure Detection Using CNN](https://github
 - Programming: Experienced in Python, C, C++, Java, Matlab, and more.
 - Machine Learning: From model training to deploying AI solutions.
 
+## 🧑‍💻 What I’m working on:
+I’m currently developing AI-powered real estate systems, focusing on Retrieval-Augmented Generation (RAG) systems to improve query classification and response generation. Additionally, I’m working on integrating ChromaDB, OpenAI API, and Flask to build scalable, chatbot-driven solutions for real estate applications.
+
+## ⚡ Fun fact:
+Recently got back into CrossFit, aiming to reach new fitness goals over the next year!
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thomas-fysekis-a08a8320b) 
 
